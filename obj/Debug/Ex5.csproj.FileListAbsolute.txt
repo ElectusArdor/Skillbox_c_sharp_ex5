@@ -1,0 +1,8 @@
+C:\Users\immor\source\repos\Ex5\bin\Debug\Ex5.exe.config
+C:\Users\immor\source\repos\Ex5\bin\Debug\Ex5.exe
+C:\Users\immor\source\repos\Ex5\bin\Debug\Ex5.pdb
+C:\Users\immor\source\repos\Ex5\obj\Debug\Ex5.csproj.AssemblyReference.cache
+C:\Users\immor\source\repos\Ex5\obj\Debug\Ex5.csproj.SuggestedBindingRedirects.cache
+C:\Users\immor\source\repos\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\immor\source\repos\Ex5\obj\Debug\Ex5.exe
+C:\Users\immor\source\repos\Ex5\obj\Debug\Ex5.pdb
